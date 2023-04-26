@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Front End is built with NextJS using GraphQL and backend with NodeJS. Ports are used for live updates to clients
 
 ## Available Scripts
 
